@@ -1,0 +1,6 @@
+Enemy fight() methods
+Mushroom body
+fightDesc initialization in constructors
+Ganon phase 2
+Emoji/characters fix
+Javadoc
